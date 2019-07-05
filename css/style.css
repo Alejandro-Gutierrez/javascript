@@ -1,0 +1,49 @@
+body{
+    width: 70%;
+    margin: auto;
+    border:1px solid red;
+    
+}
+
+#texto{
+    padding-left: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#texto2{
+    font-size:30px;
+}
+
+#titulo{
+    padding: 2em;
+}
+h1{
+    text-align: center;
+
+}
+
+div p{
+    text-align: center;
+}
+
+div p #bn{
+    
+    height: 27px;
+}
+#titulo{
+    border-radius:20px; 
+    background:red;
+    margin-bottom:2em; 
+    color:white;
+}
+#segundo{
+    background: rgb(65, 173, 137)(230, 182, 182);
+}
+#ul{
+    margin-top: 2em;
+    margin-bottom: 3em;
+    margin-left:20em; 
+    border: 1px solid red;
+    height: 250px;
+    width: 400px;
+}
